@@ -19,7 +19,7 @@ Change the variables on the Sketch named ACCESS\_TOKEN, WIFI\_SSID and WIFI\_PAS
 * Wifi and Password to configure the project
 
 #### Frame Template
-Coming Soon...
+Can be found on the print_template folder of this project. You can change it on any Drawing application like Sketch (the one I used), Illustrator, Corel Draw, Inkscape, etc.
 
 #### Schematic
 
