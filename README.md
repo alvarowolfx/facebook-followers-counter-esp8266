@@ -11,4 +11,4 @@
 
 #### Schematic
 
-![Fotos](https://github.com/alvarowolfx/facebook-followers-counter-esp8266/blob/master/schematic/ESP8266 Facebook Counter.png)
+![Fotos](https://github.com/alvarowolfx/facebook-followers-counter-esp8266/blob/master/schematic/ESP8266_Facebook_Counter.png)
